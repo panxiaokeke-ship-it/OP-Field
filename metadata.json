@@ -1,0 +1,7 @@
+{
+  "name": "OP-Web Field",
+  "description": "A high-fidelity digital synthesizer and 4-track tape recorder inspired by the Teenage Engineering OP-1 Field. Features multiple synth engines, tactile controls, and AI-powered sound design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
